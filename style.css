@@ -94,7 +94,7 @@ nav {
   padding-top: 32px;
   display: flex;
 }
-.logo {
+.nav__logo {
   display: flex;
   align-items: center;
   margin: 8px 0;
